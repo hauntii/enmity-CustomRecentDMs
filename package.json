@@ -1,9 +1,9 @@
 {
    "name": "customrecentdms",
-   "description": "customize the amount and style of recent DMs!",
+   "description": "Customize the amount and style of recent DMs!",
    "version": "1.0.0",
    "license": "GPL-3.0",
-   "author": "light",
+   "author": "niko",
    "scripts": {
       "build": "rollup -c --configPlugin esbuild"
    },
